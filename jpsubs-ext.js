@@ -10,7 +10,7 @@ const searchOptions = {
   // findAllMatches: false,
   // minMatchCharLength: 3,
   // location: 0,
-  // threshold: 0.6,
+  threshold: 0.5,
   // distance: 100,
   // useExtendedSearch: false,
   // ignoreLocation: false,
